@@ -1,42 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-23T17:13:19.066Z'
-dateModified: '2015-12-23T17:12:20.878Z'
+description: BewegungsPause☺   BGF-Konzept für die nachhaltige Steigerung Ihrer Innovationskraft und Umsetzungsstärke
+datePublished: '2015-12-23T17:16:43.022Z'
+dateModified: '2015-12-23T17:16:38.819Z'
 title: BewegungsPause☺
 author: []
+sourcePath: _posts/2015-12-23-bewegungspausesmiling-face.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-bewegungspausesmiling-face.md
-published: true
 url: bewegungspausesmiling-face/index.html
 _type: Article
 
 ---
 # 
-
-BewegungsPause☺
-
-# 
-
-BGF-Konzept
-
-# 
-
-für die nachhaltige Steigerung
-
-# 
-
-Ihrer Innovationskraft und Umsetzungsstärke
 
 Mit Spaß zu mehr Wettbewerbsfähigkeit: Mit uns können Sie die körperliche, emotionale und mentale Beweglichkeit Ihrer Mitarbeiter wiederherstellen, erhalten und steigern.
 
@@ -54,5 +40,6 @@ Entdecke
 
 Die BewegungsPause☺
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e79a50e-af26-42d6-b2f0-0d816b0d35fa.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b96e8638-d456-4c8d-9396-d7a3a8e82bdd.png)
 
 [0]: http://bewegungspause.ch/kontakt.html
