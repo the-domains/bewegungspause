@@ -23,7 +23,7 @@ color:
     - '#7a6553'
     - '#e7d7c0'
   brandStrength: 0.5
-  lightness: 0.20082146837376058
-  saturation: 0.7128293022979051
-  rhythmicContrast: 0.3122612605802715
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
